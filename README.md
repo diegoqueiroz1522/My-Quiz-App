@@ -14,4 +14,4 @@
 
 <img src="https://user-images.githubusercontent.com/57724386/214135616-76e890af-e6fd-4532-b598-3bacf874d51c.png" alt="drawing" width="200"/>
 
-### Now just hit the finish button to redirect to the home page!
+### Now just hit the "finish" button to redirect to the home page!
